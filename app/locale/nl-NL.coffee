@@ -18,9 +18,9 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
     blog: "Blog"
     forum: "Forum"
     account: "Lidmaatschap"
-#    profile: "Profile"
-#    stats: "Stats"
-#    code: "Code"
+    profile: "Profiel"
+    stats: "Status"
+    code: "Code"
     admin: "Administrator" # Only shows up when you are an admin
     home: "Home"
     contribute: "Bijdragen"
@@ -28,7 +28,7 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
     about: "Over Ons"
     contact: "Contact"
     twitter_follow: "Volgen"
-#    teachers: "Teachers"
+    teachers: "Leraren"
 
   modal:
     close: "Sluiten"
@@ -48,8 +48,8 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
   play:
     play_as: "Speel als " # Ladder page
     spectate: "Toeschouwen" # Ladder page
-#    players: "players" # Hover over a level on /play
-#    hours_played: "hours played" # Hover over a level on /play
+    players: "spelers" # Hover over a level on /play
+    hours_played: "uren gespeeld" # Hover over a level on /play
 #    items: "Items" # Tooltip on item shop button from /play
 #    heroes: "Heroes" # Tooltip on hero shop button from /play
 #    achievements: "Achievements" # Tooltip on achievement list button from /play
