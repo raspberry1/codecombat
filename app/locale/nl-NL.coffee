@@ -18,8 +18,8 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
     blog: "Blog"
     forum: "Forum"
     account: "Lidmaatschap"
-#    profile: "Profile"
-#    stats: "Stats"
+#    profile: "Profiel"
+#    stats: "Status"
 #    code: "Code"
     admin: "Administrator" # Only shows up when you are an admin
     home: "Home"
@@ -28,7 +28,7 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
     about: "Over Ons"
     contact: "Contact"
     twitter_follow: "Volgen"
-#    teachers: "Teachers"
+#    teachers: "Leraren"
 
   modal:
     close: "Sluiten"
@@ -48,18 +48,18 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
   play:
     play_as: "Speel als " # Ladder page
     spectate: "Toeschouwen" # Ladder page
-#    players: "players" # Hover over a level on /play
-#    hours_played: "hours played" # Hover over a level on /play
+#    players: "Spelers" # Hover over a level on /play
+#    hours_played: "uren gespeeld" # Hover over a level on /play
 #    items: "Items" # Tooltip on item shop button from /play
-#    heroes: "Heroes" # Tooltip on hero shop button from /play
+#    heroes: "Helden" # Tooltip on hero shop button from /play
 #    achievements: "Achievements" # Tooltip on achievement list button from /play
 #    account: "Account" # Tooltip on account button from /play
-#    settings: "Settings" # Tooltip on settings button from /play
-#    next: "Next" # Go from choose hero to choose inventory before playing a level
-#    change_hero: "Change Hero" # Go back from choose inventory to choose hero
+#    settings: "Instellingen" # Tooltip on settings button from /play
+#    next: "Volgende" # Go from choose hero to choose inventory before playing a level
+#    change_hero: "Verander van Held" # Go back from choose inventory to choose hero
 #    choose_inventory: "Equip Items"
-#    older_campaigns: "Older Campaigns"
-#    anonymous: "Anonymous Player"
+#    older_campaigns: "Oude campagnes"
+#    anonymous: "Anonieme speler"
     level_difficulty: "Moeilijkheidsgraad: "
     campaign_beginner: "Beginnercampagne"
     choose_your_level: "Kies Je Level" # The rest of this section is the old play view at /play-old and isn't very important.
@@ -94,17 +94,17 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
     sign_up: "Aanmelden"
     log_in: "inloggen met wachtwoord"
     social_signup: "Of je kunt je registreren met Facebook of G+:"
-#    required: "You need to log in before you can go that way."
+#    required: "Je moet ingelogd zijn om verder te kunnen gaan."
 
   recover:
     recover_account_title: "Herstel Account"
     send_password: "Verzend nieuw wachtwoord"
-#    recovery_sent: "Recovery email sent."
+#    recovery_sent: "Recovery email verstuurd."
 
 #  items:
 #    armor: "Armor"
-#    hands: "Hands"
-#    accessories: "Accessories"
+#    hands: "Handen"
+#    accessories: "Accessoires"
 #    minions: "Minions"
 #    misc: "Misc"
 
@@ -128,7 +128,7 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
   general:
     and: "en"
     name: "Naam"
-#    date: "Date"
+#    date: "Datum"
     body: "Inhoud"
     version: "Versie"
     commit_msg: "Commit Bericht"
@@ -163,14 +163,14 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
     minutes: "minuten"
     hour: "uur"
     hours: "uren"
-#    day: "day"
-#    days: "days"
+#    day: "dag"
+#    days: "dagen"
 #    week: "week"
-#    weeks: "weeks"
-#    month: "month"
-#    months: "months"
-#    year: "year"
-#    years: "years"
+#    weeks: "weken"
+#    month: "maand"
+#    months: "maanden"
+#    year: "jaar"
+#    years: "jaren"
 
   play_level:
     done: "Klaar"
@@ -196,13 +196,13 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
     victory_sign_up_poke: "Wil je jouw code opslaan? Maak een gratis account aan!"
     victory_rate_the_level: "Beoordeel het level: " # Only in old-style levels.
     victory_return_to_ladder: "Keer terug naar de ladder"
-#    victory_play_continue: "Continue"
-#    victory_play_skip: "Skip Ahead"
+#    victory_play_continue: "Doorgaan"
+#    victory_play_skip: "Overslaan"
     victory_play_next_level: "Speel Volgend Level"
-#    victory_play_more_practice: "More Practice"
-#    victory_play_too_easy: "Too Easy"
-#    victory_play_just_right: "Just Right"
-#    victory_play_too_hard: "Too Hard"
+#    victory_play_more_practice: "Meer oefenen"
+#    victory_play_too_easy: "Te makkelijk"
+#    victory_play_just_right: "Precies goed"
+#    victory_play_too_hard: "Te moeilijk"
 #    victory_saving_progress: "Saving Progress"
     victory_go_home: "Ga naar Home" # Only in old-style levels.
     victory_review: "Vertel ons meer!" # Only in old-style levels.
